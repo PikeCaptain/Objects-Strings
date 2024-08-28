@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LandonSimmons\\source\\repos\\Objects \u0026 Strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCC15E5-A571-443F-81B2-6406B963A55D}|Objects \u0026 Strings\\Objects \u0026 Strings.csproj|c:\\users\\landonsimmons\\source\\repos\\objects \u0026 strings\\objects \u0026 strings\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCC15E5-A571-443F-81B2-6406B963A55D}|Objects \u0026 Strings\\Objects \u0026 Strings.csproj|solutionrelative:objects \u0026 strings\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCC15E5-A571-443F-81B2-6406B963A55D}|Objects \u0026 Strings\\Objects \u0026 Strings.csproj|c:\\users\\landonsimmons\\source\\repos\\objects \u0026 strings\\objects \u0026 strings\\ibootup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCC15E5-A571-443F-81B2-6406B963A55D}|Objects \u0026 Strings\\Objects \u0026 Strings.csproj|solutionrelative:objects \u0026 strings\\ibootup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCC15E5-A571-443F-81B2-6406B963A55D}|Objects \u0026 Strings\\Objects \u0026 Strings.csproj|c:\\users\\landonsimmons\\source\\repos\\objects \u0026 strings\\objects \u0026 strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCC15E5-A571-443F-81B2-6406B963A55D}|Objects \u0026 Strings\\Objects \u0026 Strings.csproj|solutionrelative:objects \u0026 strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\LandonSimmons\\source\\repos\\Objects \u0026 Strings\\Objects \u0026 Strings\\Computer.cs",
+              "RelativeDocumentMoniker": "Objects \u0026 Strings\\Computer.cs",
+              "ToolTip": "C:\\Users\\LandonSimmons\\source\\repos\\Objects \u0026 Strings\\Objects \u0026 Strings\\Computer.cs",
+              "RelativeToolTip": "Objects \u0026 Strings\\Computer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:40:34.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBootUp.cs",
+              "DocumentMoniker": "C:\\Users\\LandonSimmons\\source\\repos\\Objects \u0026 Strings\\Objects \u0026 Strings\\IBootUp.cs",
+              "RelativeDocumentMoniker": "Objects \u0026 Strings\\IBootUp.cs",
+              "ToolTip": "C:\\Users\\LandonSimmons\\source\\repos\\Objects \u0026 Strings\\Objects \u0026 Strings\\IBootUp.cs",
+              "RelativeToolTip": "Objects \u0026 Strings\\IBootUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:14:58.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LandonSimmons\\source\\repos\\Objects \u0026 Strings\\Objects \u0026 Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Objects \u0026 Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\LandonSimmons\\source\\repos\\Objects \u0026 Strings\\Objects \u0026 Strings\\Program.cs",
+              "RelativeToolTip": "Objects \u0026 Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:58:13.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

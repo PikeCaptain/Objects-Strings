@@ -1,0 +1,4 @@
+C:\Users\LandonSimmons\source\repos\Objects & Strings\Objects & Strings\obj\Debug\net8.0\Objects & Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LandonSimmons\source\repos\Objects & Strings\Objects & Strings\obj\Debug\net8.0\Objects & Strings.AssemblyInfoInputs.cache
+C:\Users\LandonSimmons\source\repos\Objects & Strings\Objects & Strings\obj\Debug\net8.0\Objects & Strings.AssemblyInfo.cs
+C:\Users\LandonSimmons\source\repos\Objects & Strings\Objects & Strings\obj\Debug\net8.0\Objects & Strings.csproj.CoreCompileInputs.cache
